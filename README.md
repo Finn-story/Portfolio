@@ -1,1 +1,1 @@
-This is my application materials for Aalto University.
+This is my application materials
